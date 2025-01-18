@@ -17,8 +17,6 @@
 
 ![Screenshot 2023-12-21 234941](https://github.com/FPT-ThaiTuan/Detect-Yoga-Poses-And-Correction-In-Real-Time-Using-Machine-Learning-Algorithms/assets/105273233/56ed37d9-3ff6-4c18-b63b-f58f648b6fbf)
 
-### **Hope this article can help you.**
-### **If you have any questions please contact me for help!**
-### **Gmail: tuanddt.ai.work@gmail.com**
+
 
 ### ***Thanks everyone!***
